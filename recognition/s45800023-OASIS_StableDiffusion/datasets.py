@@ -3,6 +3,8 @@
 Created on Tue Sep 27 12:11:40 2022
 
 Script for pre-processing and cleaning of OASIS brain dataset. 
+Will output a dataloader to be used in conjunction with the training
+script. 
 
 @author: Jacob Barrie: s45800023
 """
